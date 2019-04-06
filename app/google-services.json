@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "826767919439",
+    "firebase_url": "https://foodestablishmentrecommender.firebaseio.com",
+    "project_id": "foodestablishmentrecommender",
+    "storage_bucket": "foodestablishmentrecommender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826767919439:android:ff5079439cc4af2d",
+        "android_client_info": {
+          "package_name": "com.uplb.mlcsobrevinas.OPMrecommender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826767919439-ihe4o4i22m8a02s8tvt66m5h2h40452u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uplb.mlcsobrevinas.OPMrecommender",
+            "certificate_hash": "83125ff42fb35878fe162049ab6817b93dfd4d40"
+          }
+        },
+        {
+          "client_id": "826767919439-2tt8jsvnkrq3shgd8c29dccqrol7dpkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwV62sxpBIHqiKUAwpII6pf9IrZ-cwkS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826767919439-2tt8jsvnkrq3shgd8c29dccqrol7dpkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
